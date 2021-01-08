@@ -3,6 +3,6 @@ dateutils==0.6.6
 lxml==4.6.2
 python-dateutil==2.2
 pytz==2014.9
-requests==2.4.3
+requests==2.20.0
 six==1.8.0
 wsgiref==0.1.2
