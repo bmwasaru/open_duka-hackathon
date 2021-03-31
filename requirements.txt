@@ -1,6 +1,6 @@
 argparse==1.2.1
 dateutils==0.6.6
-lxml==4.6.2
+lxml==4.6.3
 python-dateutil==2.2
 pytz==2014.9
 requests==2.20.0
